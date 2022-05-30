@@ -1,0 +1,32 @@
+{
+  "name": "add-note",
+  "version": "1.0.0",
+  "description": "Addnote effect for website. ",
+  "main": "src/App.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaoNguyen0202/BaoNguyen0202.git"
+  },
+  "keywords": [
+    "add-note",
+    "Javascript",
+    "umd"
+  ],
+  "author": "Nguyen Quoc bao <bao17030202@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BaoNguyen0202/BaoNguyen0202/issues"
+  },
+  "homepage": "https://github.com/BaoNguyen0202/BaoNguyen0202#readme",
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "webpack.config.js": "^0.0.0"
+  }
+}
